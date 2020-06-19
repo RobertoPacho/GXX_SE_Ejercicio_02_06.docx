@@ -1,0 +1,70 @@
+-------------------------------------------------------------------------------
+Test set: ec.edu.ups.modelo.FacturaDetalleTest
+-------------------------------------------------------------------------------
+Tests run: 11, Failures: 11, Errors: 0, Skipped: 0, Time elapsed: 0.015 sec <<< FAILURE!
+ec.edu.ups.modelo.FacturaDetalleTest.testGetCosto()  Time elapsed: 0.008 sec  <<< FAILURE!
+org.opentest4j.AssertionFailedError: The test case is a prototype.
+	at org.junit.jupiter.api.AssertionUtils.fail(AssertionUtils.java:39)
+	at org.junit.jupiter.api.Assertions.fail(Assertions.java:109)
+	at ec.edu.ups.modelo.FacturaDetalleTest.testGetCosto(FacturaDetalleTest.java:78)
+
+ec.edu.ups.modelo.FacturaDetalleTest.testSetTotal()  Time elapsed: 0 sec  <<< FAILURE!
+org.opentest4j.AssertionFailedError: The test case is a prototype.
+	at org.junit.jupiter.api.AssertionUtils.fail(AssertionUtils.java:39)
+	at org.junit.jupiter.api.Assertions.fail(Assertions.java:109)
+	at ec.edu.ups.modelo.FacturaDetalleTest.testSetTotal(FacturaDetalleTest.java:172)
+
+ec.edu.ups.modelo.FacturaDetalleTest.testSetIva()  Time elapsed: 0 sec  <<< FAILURE!
+org.opentest4j.AssertionFailedError: The test case is a prototype.
+	at org.junit.jupiter.api.AssertionUtils.fail(AssertionUtils.java:39)
+	at org.junit.jupiter.api.Assertions.fail(Assertions.java:109)
+	at ec.edu.ups.modelo.FacturaDetalleTest.testSetIva(FacturaDetalleTest.java:118)
+
+ec.edu.ups.modelo.FacturaDetalleTest.testSetCodigoFacD()  Time elapsed: 0.001 sec  <<< FAILURE!
+org.opentest4j.AssertionFailedError: The test case is a prototype.
+	at org.junit.jupiter.api.AssertionUtils.fail(AssertionUtils.java:39)
+	at org.junit.jupiter.api.Assertions.fail(Assertions.java:109)
+	at ec.edu.ups.modelo.FacturaDetalleTest.testSetCodigoFacD(FacturaDetalleTest.java:64)
+
+ec.edu.ups.modelo.FacturaDetalleTest.testGetTotal()  Time elapsed: 0 sec  <<< FAILURE!
+org.opentest4j.AssertionFailedError: The test case is a prototype.
+	at org.junit.jupiter.api.AssertionUtils.fail(AssertionUtils.java:39)
+	at org.junit.jupiter.api.Assertions.fail(Assertions.java:109)
+	at ec.edu.ups.modelo.FacturaDetalleTest.testGetTotal(FacturaDetalleTest.java:159)
+
+ec.edu.ups.modelo.FacturaDetalleTest.testSetCosto()  Time elapsed: 0 sec  <<< FAILURE!
+org.opentest4j.AssertionFailedError: The test case is a prototype.
+	at org.junit.jupiter.api.AssertionUtils.fail(AssertionUtils.java:39)
+	at org.junit.jupiter.api.Assertions.fail(Assertions.java:109)
+	at ec.edu.ups.modelo.FacturaDetalleTest.testSetCosto(FacturaDetalleTest.java:91)
+
+ec.edu.ups.modelo.FacturaDetalleTest.testGetIva()  Time elapsed: 0.001 sec  <<< FAILURE!
+org.opentest4j.AssertionFailedError: The test case is a prototype.
+	at org.junit.jupiter.api.AssertionUtils.fail(AssertionUtils.java:39)
+	at org.junit.jupiter.api.Assertions.fail(Assertions.java:109)
+	at ec.edu.ups.modelo.FacturaDetalleTest.testGetIva(FacturaDetalleTest.java:105)
+
+ec.edu.ups.modelo.FacturaDetalleTest.testSetSubtotal()  Time elapsed: 0.001 sec  <<< FAILURE!
+org.opentest4j.AssertionFailedError: The test case is a prototype.
+	at org.junit.jupiter.api.AssertionUtils.fail(AssertionUtils.java:39)
+	at org.junit.jupiter.api.Assertions.fail(Assertions.java:109)
+	at ec.edu.ups.modelo.FacturaDetalleTest.testSetSubtotal(FacturaDetalleTest.java:145)
+
+ec.edu.ups.modelo.FacturaDetalleTest.testGetSubtotal()  Time elapsed: 0.001 sec  <<< FAILURE!
+org.opentest4j.AssertionFailedError: The test case is a prototype.
+	at org.junit.jupiter.api.AssertionUtils.fail(AssertionUtils.java:39)
+	at org.junit.jupiter.api.Assertions.fail(Assertions.java:109)
+	at ec.edu.ups.modelo.FacturaDetalleTest.testGetSubtotal(FacturaDetalleTest.java:132)
+
+ec.edu.ups.modelo.FacturaDetalleTest.testCalcularTotal()  Time elapsed: 0.001 sec  <<< FAILURE!
+org.opentest4j.AssertionFailedError: The test case is a prototype.
+	at org.junit.jupiter.api.AssertionUtils.fail(AssertionUtils.java:39)
+	at org.junit.jupiter.api.Assertions.fail(Assertions.java:109)
+	at ec.edu.ups.modelo.FacturaDetalleTest.testCalcularTotal(FacturaDetalleTest.java:184)
+
+ec.edu.ups.modelo.FacturaDetalleTest.testGetCodigoFacD()  Time elapsed: 0.001 sec  <<< FAILURE!
+org.opentest4j.AssertionFailedError: The test case is a prototype.
+	at org.junit.jupiter.api.AssertionUtils.fail(AssertionUtils.java:39)
+	at org.junit.jupiter.api.Assertions.fail(Assertions.java:109)
+	at ec.edu.ups.modelo.FacturaDetalleTest.testGetCodigoFacD(FacturaDetalleTest.java:51)
+
